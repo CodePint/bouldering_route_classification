@@ -1,0 +1,13 @@
+matplotlib
+numpy
+protobuf
+scikit_learn
+scipy
+tensorflow
+torch
+torchvision
+pyyaml
+google
+detectron2
+cv2
+

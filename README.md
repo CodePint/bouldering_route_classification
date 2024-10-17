@@ -1,8 +1,6 @@
-
 # Indoor Bouldering Route Classification using Image Processing and Deep Learning
 
-NOTE: this README does not cover all the details in the paper, though it does serve as a summary of the final product of the project.
-
+This project is a fork which seeks to create a modular and deployable implementation using SWE best practices
 
 **Third Year Project Screencast (Summary of the project)**
 
